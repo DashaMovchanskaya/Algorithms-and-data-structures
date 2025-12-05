@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my projects\\aisd0.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4950F214-1C40-4926-8A57-993A9DE03F68}|aisd0.0\\aisd0.0.vcxproj|C:\\my projects\\aisd0.0\\aisd0.0\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4950F214-1C40-4926-8A57-993A9DE03F68}|aisd0.0\\aisd0.0.vcxproj|solutionrelative:aisd0.0\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\my projects\\aisd0.0\\aisd0.0\\Source.cpp",
+              "RelativeDocumentMoniker": "aisd0.0\\Source.cpp",
+              "ToolTip": "C:\\my projects\\aisd0.0\\aisd0.0\\Source.cpp",
+              "RelativeToolTip": "aisd0.0\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T06:45:27.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
